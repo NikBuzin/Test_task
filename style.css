@@ -1,0 +1,138 @@
+.Background {
+    background-image: url("Background.png");
+    position: absolute;
+    overflow-y: hidden;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.Cloud {
+    background-image: url("Cloud.png");
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 1000px;
+    height: 603px;
+    z-index: 2;
+}
+
+.BX_logo {
+    background-image: url("BX-logo.png");
+    position: absolute;
+    top: 400px;
+    width: 50px;
+    height: 50px;
+    z-index: 3;
+}
+
+.Line {
+    background-image: url("Line.png");
+    position: absolute;
+    top: 600px;
+    width: 100%;
+    height: 1px;
+    z-index: 3;
+}
+
+.TextCopyright {
+    font-size: 11px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.309;
+    text-align: left;
+    position: absolute;
+    top: 635px;
+    z-index: 3;
+}
+.logo_text {
+    font-size: 13px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    left: 70px;
+    top: 400px;
+    width: 730px;
+    z-index: 3;
+}
+.introduction {
+    font-size: 13px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    top: 170px;
+    width: 651px;
+    height: 30px;
+    z-index: 8;
+}
+
+a {
+    font-size: 13px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    z-index: 7;
+}
+.main_block {
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+}
+.title {
+    font-size: 25px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    top: 110px;
+    z-index: 7;
+}
+.head_href {
+    font-size: 12px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: absolute;
+    top: 50px;
+    z-index: 9;
+}
+.text_left {
+     font-size: 12px;
+     font-family: "Arial";
+     color: rgb(255, 255, 255);
+     line-height: 1.3;
+     top: 250px;
+     left: 0px;
+     width: 360px;
+     position: absolute;
+}
+.text_right {
+    font-size: 12px;
+    font-family: "Arial";
+    color: rgb(255, 255, 255);
+    line-height: 1.3;
+    top: 250px;
+    left: 410px;
+    width: 390px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
